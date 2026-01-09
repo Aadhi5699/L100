@@ -15,9 +15,9 @@ A comprehensive study of Git internals, architecture, and advanced mental models
 - [x] **03. Local Git Internals**
   - *Breakdown of the `.git` directory.*
     - [View Notes](./03-local-git-internals/git-folder-breakdown.md)
-- [ ] **04. Command Internals**
+- [x] **04. Command Internals**
   - *Deep dive into `add`, `commit`, and `push`.*
-  
+    - [View Notes](./04-command-internals/notes.md)
 - [ ] **05. Advanced Mental Models**
   - *Why Git is safe, reflogs, and recovery.*
 
@@ -37,3 +37,6 @@ A comprehensive study of Git internals, architecture, and advanced mental models
 - [Git Book: Recording Changes to the Repository](https://git-scm.com/book/ms/v2/Git-Basics-Recording-Changes-to-the-Repository#:~:text=If%20you%20commit%20now%2C%20the,:%20README%20modified:%20CONTRIBUTING.md)
 
 - [Miller: Git Add Patch](https://millerb.co.uk/2021/11/16/git-add-patch.html)
+
+**04. Command Internals**
+- [Atlassian: Git Reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
