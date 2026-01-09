@@ -24,6 +24,9 @@ A comprehensive study of Git internals, architecture, and advanced mental models
   - *Fetch,Pull,Push and Rebase*
     - [View Notes](./05-advanced-mental-models/notes.md)
 
+## Final Reflections
+- [View Key Takeaways](./REFLECTIONS.md)
+
 ## 🔗 Resources & References
 **01. Genesis & Philosophy**
 - [GitInit: Snapshot vs Delta Storage](https://blog.git-init.com/snapshot-vs-delta-storage/)
