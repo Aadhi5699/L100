@@ -16,10 +16,11 @@ A comprehensive study of Git internals, architecture, and advanced mental models
   - *Breakdown of the `.git` directory.*
     - [View Notes](./03-local-git-internals/git-folder-breakdown.md)
 - [x] **04. Command Internals**
-  - *Deep dive into `add`, `commit`, and `push`.*
+  - *Deep dive into reset,reflog, and recovery.*
     - [View Notes](./04-command-internals/notes.md)
-- [ ] **05. Advanced Mental Models**
-  - *Why Git is safe, reflogs, and recovery.*
+- [x] **05. Advanced Mental Models**
+  - *Fetch,Pull,Push and Rebase*
+    - [View Notes](./05-advanced-mental-models/notes.md)
 
 ## 🔗 Resources & References
 **01. Genesis & Philosophy**
@@ -40,3 +41,8 @@ A comprehensive study of Git internals, architecture, and advanced mental models
 
 **04. Command Internals**
 - [Atlassian: Git Reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
+
+**05. Advanced Mental Models**
+- [Medium: Git Rebase Like a Professional](https://medium.com/codex/git-rebase-like-a-professional-1d75929ce69d)
+- [Dev.to: Git Internals Part 2: Packfiles](https://dev.to/calebsander/git-internals-part-2-packfiles-1jg8)
+- [KennyBallou: Git Packfiles](https://kennyballou.com/blog/2017/03/git-packfiles/index.html#:~:text=Summary%20Hopefully%2C%20we%20now%20have%20a%20deeper,there's%20a%20large%20number%20of%20loose%20objects.)
