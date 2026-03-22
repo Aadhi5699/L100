@@ -3,8 +3,6 @@ A deep dive into Git
 
 A comprehensive study of Git internals, architecture, and advanced mental models.
 
-> **Note**: This project is documented using **Google Antigravity**.
-
 ## 📚 Syllabus & Progress
 - [x] **01. Genesis & Philosophy**
   - *Why Git exists, Snapshots vs. Deltas, Content-Addressable Storage.*
